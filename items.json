@@ -1,0 +1,10 @@
+{
+    "items": {
+        "leather_chestplate": {
+            "minecraft_id": "minecraft:leather_chestplate",
+            "rarity": 0.85,
+            "power_level": 0.1,
+            "starter_chest_rarity": 0.2
+        }
+    }
+}
