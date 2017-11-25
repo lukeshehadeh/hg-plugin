@@ -1,0 +1,2 @@
+# hg-plugin
+hungergames plugin
